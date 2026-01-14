@@ -1,0 +1,7 @@
+{
+  "name": "AK Performance - Diágnostico e REMAP",
+  "description": "A high-end automotive performance and mechanics website featuring power gain simulators, vehicle catalog, and service booking inspired by industry leaders.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
